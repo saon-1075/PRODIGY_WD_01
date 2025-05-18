@@ -135,7 +135,7 @@ nav {
   border-radius: 2px;
 }
 
-/* Responsive Nav */
+
 @media (max-width: 768px) {
   .hamburger {
     display: flex;
