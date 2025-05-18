@@ -154,7 +154,7 @@ nav {
   }
 
   .nav-links.active {
-    max-height: 1000px; /* Increased to show all links comfortably */
+    max-height: 1000px; 
     padding: 1rem 0;
   }
 
